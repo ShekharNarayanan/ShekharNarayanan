@@ -46,7 +46,7 @@ My name is Shekhar and I am a master's graduate from Radboud University. I enjoy
     </td>
     <td align="center">
       <img src="https://github.com/devicons/devicon/blob/master/icons/keras/keras-original.svg" width="60" height="60" alt="Keras" />
-      <br>OpenCV
+      <br>Keras
     </td>
   </tr>
 </table>
@@ -63,17 +63,10 @@ My name is Shekhar and I am a master's graduate from Radboud University. I enjoy
       <br>Jupyter
     </td>
     <td align="center">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original-wordmark.svg" width="60" height="60" alt="Spark" />
-      <br>Spark
+      <img src="https://github.com/devicons/devicon/blob/master/icons/aws/aws-original-wordmark.svg" width="60" height="60" alt="AWS" />
+      <br>AWS
     </td>
-    <td align="center">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="60" height="60" alt="MySQL" />
-      <br>MySQL
-    </td>
-    <td align="center">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="60" height="60" alt="Postgres" />
-      <br>Postgres
-    </td>
+    
     <td align="center">
       <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" width="60" height="60" alt="SQLite" />
       <br>SQLite
