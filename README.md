@@ -45,7 +45,7 @@ My name is Shekhar and I am a master's graduate from Radboud University. I enjoy
       <br>Matplotlib
     </td>
     <td align="center">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" width="60" height="60" alt="OpenCV" />
+      <img src="https://github.com/devicons/devicon/blob/master/icons/keras/keras-original.svg" width="60" height="60" alt="Keras" />
       <br>OpenCV
     </td>
   </tr>
