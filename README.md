@@ -1,5 +1,5 @@
 ## Hi there 👋
-My name is Shekhar and I am a master's graduate from Radboud University. I enjoy solving complex problems through the power of data science and machine learning.
+My name is Shekhar and I am a master's graduate from Radboud University. I enjoy solving complex problems with the power of data science and machine learning.
 
 - 🔭 I’m currently working on developing a brain-machine interface for communication using machine-learning techniques
 - 🌱 I’m currently learning the data engineering methods and use of DNNs in medical AI diagnosis
