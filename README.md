@@ -6,9 +6,6 @@ My name is Shekhar and I am a master's graduate from Radboud University. I enjoy
 - 👯 I’m looking to collaborate on any projects related to data science and health care!
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/shekharnarayanan?lipi=urn%3Ali%3Apage%3Ad_flagship3_messaging_conversation_detail%3B95jvCMN3T%2BGBzXNO6egxxQ%3D%3D)
 
-## GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShekharNarayanan&show_icons=true)
-
 # Languages and Tools
 
 ## Languages:
@@ -19,7 +16,7 @@ My name is Shekhar and I am a master's graduate from Radboud University. I enjoy
       <br>Python3
     </td>
     <td align="center">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="60" height="60" alt="C" />
+      <img src="https://github.com/devicons/devicon/blob/master/icons/c++/c++-original.svg" width="60" height="60" alt="C" />
       <br>C
     </td>
     <td align="center">
