@@ -14,11 +14,6 @@ My name is Shekhar and I am a master's graduate from Radboud University. I enjoy
     <td align="center">
       <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="60" height="60" alt="Python" />
       <br>Python3
-    </td>
-    <td align="center">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/c++/c++-original.svg" width="60" height="60" alt="C" />
-      <br>C
-    </td>
     <td align="center">
       <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" width="60" height="60" alt="Matlab" />
       <br>Matlab
@@ -32,10 +27,6 @@ My name is Shekhar and I am a master's graduate from Radboud University. I enjoy
     <td align="center">
       <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" width="60" height="60" alt="Pytorch" />
       <br>Pytorch
-    </td>
-    <td align="center">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" width="60" height="60" alt="Selenium" />
-      <br>Selenium
     </td>
     <td align="center">
       <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" width="60" height="60" alt="Numpy" />
