@@ -24,12 +24,8 @@ My name is Shekhar and I am a master's graduate from Radboud University. I enjoy
       <br>C
     </td>
     <td align="center">
-      <img src="./assets/javascript.png" width="60" height="60" alt="JavaScript" />
+      <img src="./assets/matlab.png" width="60" height="60" alt="JavaScript" />
       <br>JavaScript
-    </td>
-    <td align="center">
-      <img src="./assets/solidity.png" width="60" height="60" alt="Solidity" />
-      <br>Solidity
     </td>
   </tr>
 </table>
