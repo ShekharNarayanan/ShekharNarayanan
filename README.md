@@ -63,13 +63,7 @@ My name is Shekhar and I am a master's graduate from Radboud University. I enjoy
       <br>Jupyter
     </td>
     <td align="center">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/aws/aws-original-wordmark.svg" width="60" height="60" alt="AWS" />
+      <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="60" height="60" alt="AWS" />
       <br>AWS
-    </td>
-    
-    <td align="center">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" width="60" height="60" alt="SQLite" />
-      <br>SQLite
-    </td>
   </tr>
 </table>
