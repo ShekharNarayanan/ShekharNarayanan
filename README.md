@@ -21,7 +21,7 @@ My name is Shekhar and I am a master's graduate from Radboud University. I enjoy
   </tr>
 </table>
 
-## Best frameworks and main libraries for Python3:
+## Main libraries for Python3:
 <table>
   <tr>
     <td align="center">
