@@ -19,7 +19,7 @@ My name is Shekhar and I am a master's graduate from Radboud University. I enjoy
     </td>
     <td align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-line.svg" width="60" height="60" alt="Matlab" />
-  <br>Matlab
+  <br>R
   </td>
   </tr>
 </table>
