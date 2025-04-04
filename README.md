@@ -1,8 +1,8 @@
 ## Hi there 👋
-My name is Shekhar and I am a master's graduate from Radboud University. I enjoy solving complex problems with the power of data science and machine learning.
+My name is Shekhar and I am a research software engineer and data steward. I love making clean, easy to use software and telling stories with data.
 
 - 🔭 I have previously worked on developing a brain-machine interface for communication using machine-learning techniques.
-- 👯 I’m looking to collaborate on any projects related to data science, software development and health care!
+- 👯 I’m looking to collaborate on open sources projects related to data science, software development and health care!
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/shekharnarayanan?lipi=urn%3Ali%3Apage%3Ad_flagship3_messaging_conversation_detail%3B95jvCMN3T%2BGBzXNO6egxxQ%3D%3D)
 
 # Languages and Tools
