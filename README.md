@@ -1,10 +1,9 @@
 ## Hi there 👋
-My name is Shekhar and I am a research software engineer and data steward. I love making clean, easy to use software and telling stories with data.
+My name is Shekhar and I am a **research software engineer and data steward**. I love making clean, easy to use software and telling stories with data.
 
-- 💻 I have experience handling and working with API based workflows.
-- 📚 My latest project involves dealing with unstructured text documents and developing a universal file format converter for text. You can check it out **[here](https://gitlab.uvt.nl/tsb-rst/universal_text_conversion)**
-- 🔭 I have previously worked on developing a brain-machine interface for communication using machine-learning techniques.
-- 👯 I’m looking to collaborate on open sources projects related to data science, software development and health care!
+- 📚 My latest project involves dealing with unstructured text documents and developing a universal file format converter for all text formats (rtf, odt, doc, docx, txt). You can check it out **[here](https://gitlab.uvt.nl/tsb-rst/universal_text_conversion)**!
+- 💳 **A personal project** I am working on to build a **dashboard for my finances** using **local LLMs**: [finance_viz](https://github.com/ShekharNarayanan/finance_viz/tree/develop)
+- 🔭 I have previously worked on developing a **brain-computer interface (BCI)** for communication using machine-learning techniques like CCA and LDA. Check it out [here](https://github.com/ShekharNarayanan/Covert_CVEP).
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/shekharnarayanan?lipi=urn%3Ali%3Apage%3Ad_flagship3_messaging_conversation_detail%3B95jvCMN3T%2BGBzXNO6egxxQ%3D%3D)
 
 # Languages and Tools
