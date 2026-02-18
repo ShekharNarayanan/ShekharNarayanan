@@ -1,10 +1,15 @@
 ## Hi there 👋
-My name is Shekhar and I am a **research software engineer and data steward**. I love making clean, easy to use software and telling stories with data.
+My name is Shekhar and I am a **research engineer**. I collaborate with scientists to develop software and data pipelines for a living. I have a penchant for multimodal biosignal data, and have developed analysis pipelines for data ranging from sleep recordings of rats to human EEG, ECG and EDA data. Apart from this, I have also worked in a data engineering capacity to transform raw lab data into useful structures that were later used for analysis. 
 
-- 📚 My latest hobby project involves tracking stocks in the American market based on simple criteria. No nonsense, no adds, just insight. Check it out [here](https://github.com/ShekharNarayanan/live-stocks-tracker).
-- 💳 **Another personal project** I am working on to build a **dashboard for my finances** using **local LLMs**: [finance_viz](https://github.com/ShekharNarayanan/finance_viz/tree/develop)
-- 🔭 I have previously worked on developing a **brain-computer interface (BCI)** for communication using machine-learning techniques like CCA and LDA. Check it out [here](https://github.com/ShekharNarayanan/Covert_CVEP).
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/shekharnarayanan?lipi=urn%3Ali%3Apage%3Ad_flagship3_messaging_conversation_detail%3B95jvCMN3T%2BGBzXNO6egxxQ%3D%3D)
+- 📻 💜Check out [this]() project where I am developing preprocessing pipelines for **EDA and ECG data**.
+
+- 📶 In [this](https://github.com/ShekharNarayanan/ecg_arrhythmia) hobby project, I am  working with **clinical ECG data** to develop a **ML pipeline for arrhytmia classification**. I also focus writing code in a way where it is more useful in an industry setting where **production** is key.
+
+- 💾 Currently, I am following the **advanced SQL tutorial** written by [Data lemur](https://datalemur.com/sql-tutorial/advanced-sql-tutorial-intro).
+
+- 🧠 I have previously worked on developing a **brain-computer interface (BCI)** for communication using machine-learning techniques like CCA and LDA. Check it out [here](https://github.com/ShekharNarayanan/Covert_CVEP).
+
+📫 How to reach me: [Linkedin](https://www.linkedin.com/in/shekharnarayanan?lipi=urn%3Ali%3Apage%3Ad_flagship3_messaging_conversation_detail%3B95jvCMN3T%2BGBzXNO6egxxQ%3D%3D)
 
 # Languages and Tools
 
@@ -18,9 +23,14 @@ My name is Shekhar and I am a **research software engineer and data steward**. I
       <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" width="60" height="60" alt="Matlab" />
       <br>Matlab
     </td>
-    <td align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-line.svg" width="60" height="60" alt="Matlab" />
-  <br>R
+  <td align="center">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-line.svg" width="60" height="60" alt="R" />
+    <br>R
+  </td>
+        </td>
+  <td align="center">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="60" height="60" alt="R" />
+    <br>SQL
   </td>
   </tr>
 </table>
