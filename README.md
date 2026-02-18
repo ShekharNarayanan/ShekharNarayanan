@@ -1,5 +1,5 @@
 ## Hi there 👋
-My name is Shekhar and I am a **research engineer**. I collaborate with scientists to develop software and data pipelines for a living. I have a penchant for multimodal biosignal data, and have developed analysis pipelines for data ranging from sleep recordings of rats to human EEG, ECG and EDA data. Apart from this, I have also worked in a data engineering capacity to transform raw lab data into useful structures that were later used for analysis. 
+My name is Shekhar and I am a **research engineer**. I collaborate with scientists to develop software and data pipelines for a living. I have a penchant for multimodal biosignal data, and have developed analysis pipelines for data ranging from sleep recordings of rats to human EEG, ECG and EDA data. Apart from this, I have also worked in a data engineering capacity to transform raw data into useful structures that were later used for analysis. 
 
 - 📻 💜Check out [this](https://gitlab.uvt.nl/tsb-rst/eda_ecg_preprocessing) project where I am developing preprocessing pipelines for **EDA and ECG data**.
 
