@@ -1,15 +1,46 @@
-## Hi there 👋
-My name is Shekhar and I am a **research engineer**. I collaborate with scientists to develop software and data pipelines for a living. I have a penchant for multimodal biosignal data, and have developed analysis pipelines for data ranging from sleep recordings of rats to human EEG, ECG and EDA data. Apart from this, I have also worked in a data engineering capacity to transform raw data into useful structures that were later used for analysis. 
+## Hi, I’m Shekhar 👋
 
-- 📻 💜Check out [this](https://gitlab.uvt.nl/tsb-rst/eda_ecg_preprocessing) project where I am developing preprocessing pipelines for **EDA and ECG data**.
+I work on data-heavy projects in Python, focusing on preprocessing, structuring datasets, and organizing experiments into clean, reproducible code.
 
-- 📶 In [this](https://github.com/ShekharNarayanan/ecg_arrhythmia) hobby project, I am  working with **clinical ECG data** to develop a **ML pipeline for arrhytmia classification**. I also focus writing code in a way where it is more useful in an industry setting where **production** is key.
+Below are some examples of my work:
 
-- 💾 Currently, I am following the **advanced SQL tutorial** written by [Data lemur](https://datalemur.com/sql-tutorial/advanced-sql-tutorial-intro) where I learn concepts using real industry-related problems. You can track my progress [here](https://github.com/ShekharNarayanan/SQL_hacking).
+---
 
-- 🧠 I have previously worked on developing a **brain-computer interface (BCI)** for communication using machine-learning techniques like CCA and LDA. Check it out [here](https://github.com/ShekharNarayanan/Covert_CVEP).
+## Time-Series & Sensor Data
 
-📫 How to reach me: [Linkedin](https://www.linkedin.com/in/shekharnarayanan?lipi=urn%3Ali%3Apage%3Ad_flagship3_messaging_conversation_detail%3B95jvCMN3T%2BGBzXNO6egxxQ%3D%3D)
+- **EDA & ECG Processing**  
+  Developing structured preprocessing pipelines for physiological time-series data, including cleaning, validation, and feature preparation.  
+  https://gitlab.uvt.nl/tsb-rst/eda_ecg_preprocessing
+
+- **ECG Arrhythmia Classification**  
+  Building an end-to-end ML pipeline for classifying clinical ECG data, including preprocessing, feature extraction, model training, and evaluation.  
+  https://github.com/ShekharNarayanan/ecg_arrhythmia
+
+- **EEG / Brain-Computer Interface**  
+  Developed and evaluated signal-processing + ML methods (CCA, LDA) for classification in a BCI experiment.  
+  https://github.com/ShekharNarayanan/Covert_CVEP
+
+---
+
+## Data Processing & Utility Projects
+
+- **Universal Text Conversion Tool**  
+  Built a Python tool to automate large-scale document parsing and conversion into structured, searchable PDFs across nested directories.  
+  https://gitlab.uvt.nl/tsb-rst/universal_text_conversion
+
+- **Unstructured Text Parsing & Extraction**  
+  Developed an application to collect, organize, and extract structured information from messy and scanned documents using API integrations.  
+  https://gitlab.uvt.nl/tsb-rst/os_companies_house_api_integration
+
+---
+
+## Currently Learning
+
+- Advanced SQL (DataLemur) – practicing industry-style query problems  
+  Progress: https://github.com/ShekharNarayanan/SQL_hacking
+
+📫 LinkedIn: https://www.linkedin.com/in/shekharnarayanan
+
 
 # Languages and Tools
 
