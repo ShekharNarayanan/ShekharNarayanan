@@ -5,7 +5,7 @@ My name is Shekhar and I am a **research engineer**. I collaborate with scientis
 
 - 📶 In [this](https://github.com/ShekharNarayanan/ecg_arrhythmia) hobby project, I am  working with **clinical ECG data** to develop a **ML pipeline for arrhytmia classification**. I also focus writing code in a way where it is more useful in an industry setting where **production** is key.
 
-- 💾 Currently, I am following the **advanced SQL tutorial** written by [Data lemur](https://datalemur.com/sql-tutorial/advanced-sql-tutorial-intro) where I learn concepts using real industry-related problems. You can track my progress [here](https://github.com/ShekharNarayanan/SQL_hacking)
+- 💾 Currently, I am following the **advanced SQL tutorial** written by [Data lemur](https://datalemur.com/sql-tutorial/advanced-sql-tutorial-intro) where I learn concepts using real industry-related problems. You can track my progress [here](https://github.com/ShekharNarayanan/SQL_hacking).
 
 - 🧠 I have previously worked on developing a **brain-computer interface (BCI)** for communication using machine-learning techniques like CCA and LDA. Check it out [here](https://github.com/ShekharNarayanan/Covert_CVEP).
 
