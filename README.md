@@ -14,11 +14,11 @@ Below are some examples of my work:
 
 - **ECG Arrhythmia Classification**  
   Building an end-to-end ML pipeline for classifying clinical ECG data, including preprocessing, feature extraction, model training, and evaluation.  
-🟢 https://github.com/ShekharNarayanan/ecg_arrhythmia (last updated: 2d ago)
+🟢 https://github.com/ShekharNarayanan/ecg_arrhythmia (last updated: 3d ago)
 
 - **EEG / Brain-Computer Interface**  
   Developed and evaluated signal-processing + ML methods (CCA, LDA) for classification in a BCI experiment.  
-⚪ https://github.com/ShekharNarayanan/Covert_CVEP (last updated: 597d ago)
+⚪ https://github.com/ShekharNarayanan/Covert_CVEP (last updated: 598d ago)
 
 ---
 
@@ -37,7 +37,7 @@ Below are some examples of my work:
 ## Currently Learning
 
 - Advanced SQL (DataLemur) – practicing industry-style query problems  
-🟢 Progress: https://github.com/ShekharNarayanan/SQL_hacking (last updated: yesterday)
+🟢 Progress: https://github.com/ShekharNarayanan/SQL_hacking (last updated: 2d ago)
 
 📫 LinkedIn: https://www.linkedin.com/in/shekharnarayanan
 
