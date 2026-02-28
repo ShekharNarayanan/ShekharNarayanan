@@ -14,7 +14,7 @@ Below are some examples of my work:
 
 - **ECG Arrhythmia Classification**  
   Building an end-to-end ML pipeline for classifying clinical ECG data, including preprocessing, feature extraction, model training, and evaluation.  
-🟢 https://github.com/ShekharNarayanan/ecg_arrhythmia (last updated: 4d ago)
+🟢 https://github.com/ShekharNarayanan/ecg_arrhythmia (last updated: today)
 
 - **EEG / Brain-Computer Interface**  
   Developed and evaluated signal-processing + ML methods (CCA, LDA) for classification in a BCI experiment.  
