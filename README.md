@@ -18,7 +18,7 @@ Below are some examples of my work:
 
 - **EEG / Brain-Computer Interface**  
   Developed and evaluated signal-processing + ML methods (CCA, LDA) for classification in a BCI experiment.  
-⚪ https://github.com/ShekharNarayanan/Covert_CVEP (last updated: 605d ago)
+⚪ https://github.com/ShekharNarayanan/Covert_CVEP (last updated: 606d ago)
 
 ---
 
@@ -37,7 +37,7 @@ Below are some examples of my work:
 ## Currently Learning
 
 - Advanced SQL (DataLemur) – practicing industry-style query problems  
-🟢 Progress: https://github.com/ShekharNarayanan/SQL_hacking (last updated: 2d ago)
+🟢 Progress: https://github.com/ShekharNarayanan/SQL_hacking (last updated: 3d ago)
 
 📫 LinkedIn: https://www.linkedin.com/in/shekharnarayanan
 
