@@ -8,8 +8,8 @@ Below are some examples of my work:
 
 ## Time-Series & Sensor Data
 
-- **EDA & ECG Processing**  
-  Developing structured preprocessing pipelines for physiological time-series data, including cleaning, validation, and feature preparation.  
+- **EDA & ECG ML pipeline**  
+  Developing structured preprocessing and machine learning/analysis pipelines for physiological time-series data (skin conductance and ecg), including cleaning, validation, and feature preparation.  
   https://gitlab.uvt.nl/tsb-rst/eda_ecg_preprocessing
 
 - **ECG Arrhythmia Classification**  
