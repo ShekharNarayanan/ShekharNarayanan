@@ -12,11 +12,11 @@ Below are some examples of my work:
   Developing structured preprocessing and machine learning/analysis pipelines for physiological time-series data (skin conductance and ecg), including cleaning, validation, and feature preparation.  
   https://gitlab.uvt.nl/tsb-rst/eda_ecg_preprocessing
 
-- **ECG Arrhythmia Classification**  
-  Building an end-to-end ML pipeline for classifying clinical ECG data, including preprocessing, feature extraction, model training, and evaluation.  
+- **ECG Arrhythmia Classification [Finished]**  
+  Building an end-to-end ML pipeline for classifying clinical ECG data, including preprocessing, feature extraction, model training, and evaluation.  Read the indepth article about the project and its limitations [here](https://medium.com/@shekharnarayanan833/the-downside-to-clarity-a-machine-learning-only-approach-to-arrhythmia-detection-63074e96851a?postPublishedType=initial).
 🟡 https://github.com/ShekharNarayanan/ecg_arrhythmia (last updated: 12d ago)
 
-- **EEG / Brain-Computer Interface**  
+- **EEG / Brain-Computer Interface [Finished]**  
   Developed and evaluated signal-processing + ML methods (CCA, LDA) for classification in a BCI experiment.  
 ⚪ https://github.com/ShekharNarayanan/Covert_CVEP (last updated: 644d ago)
 
