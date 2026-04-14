@@ -13,7 +13,8 @@ Below are some examples of my work:
   https://gitlab.uvt.nl/tsb-rst/eda_ecg_preprocessing
 
 - **ECG Arrhythmia Classification [Finished]**  
-  Building an end-to-end ML pipeline for classifying clinical ECG data, including preprocessing, feature extraction, model training, and evaluation.  Read the indepth article about the project and its limitations [here](https://medium.com/@shekharnarayanan833/the-downside-to-clarity-a-machine-learning-only-approach-to-arrhythmia-detection-63074e96851a?postPublishedType=initial).
+  Built an end-to-end ML pipeline for classifying clinical ECG data, including preprocessing, feature extraction, model training, and evaluation.  **Read the indepth article about the project and its limitations [here](https://medium.com/@shekharnarayanan833/the-downside-to-clarity-a-machine-learning-only-approach-to-arrhythmia-detection-63074e96851a?postPublishedType=initial).**
+  
 🟡 https://github.com/ShekharNarayanan/ecg_arrhythmia (last updated: 12d ago)
 
 - **EEG / Brain-Computer Interface [Finished]**  
