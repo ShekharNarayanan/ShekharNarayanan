@@ -9,7 +9,7 @@ Below are some examples of my work:
 ## Time-Series & Sensor Data
 
 - **EDA & ECG ML pipeline [Ongoing]**  
-  Developing structured preprocessing and machine learning/analysis pipelines for physiological time-series data (skin conductance and ecg), including cleaning, validation, and feature preparation.  
+  Developing structured preprocessing and machine learning/analysis pipelines for physiological time-series data (skin conductance and ecg), including cleaning, validation, and feature preparation. Currently looking into feature importance using recursive feature elimination.
   https://gitlab.uvt.nl/tsb-rst/eda_ecg_preprocessing
 
 - **Motor imagery and inefficient BCI users [Ongoing]**: Reproducing the motor imagery BCI pipeline developed by Tibrewal et al. 2022 from scratch with modifications. Preprocessing, epoching, artifact rejection (ICA), and using models like CSP and LDA for classification. Repository link [here](https://github.com/ShekharNarayanan/motor_imagery_inefficient_users).
